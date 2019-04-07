@@ -1,0 +1,1 @@
+# gomaku_django
